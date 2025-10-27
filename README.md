@@ -50,10 +50,10 @@ Built using **React, Node.js, Express, FastAPI (Python), and MongoDB**, Omnivion
 ## ⚙️ Instructions to Run the Project  
 
 1. **Clone the Repository**
-   ```bash
-   git clone <your_repo_link>
-   cd omnivion
-   ```
+```bash
+git clone <your_repo_link>
+cd omnivion
+```
 2. **Start the ML Microservice (Python)**
 ```bash
 cd ml_service
